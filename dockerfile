@@ -1,7 +1,7 @@
 # set base image (host OS)
 #Funciona aunque muy pesado +2GB:
-FROM python:3.8-windowsservercore-1809
-
+#FROM python:3.8-windowsservercore-1809
+FROM python:3.8
 
 
 
